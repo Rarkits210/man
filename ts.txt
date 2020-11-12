@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Features - Drewmint</title>
+</head>
+<body>
+    <nav>
+        <p>
+            Drewmint Esential
+        </p>
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="features.html">Features</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="pricing.html">Pricing</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="login.html">Login</a>
+            </li>
+        </ul>
+    </nav>
+
+    <section>
+           <div>
+            <h1>
+                Esential Features
+            </h1>
+            <p>
+                memberikan peningkatan rasa percaya diri dengan produk kami
+            </p>
+           </div>
+           <div>
+               <table>
+               <tr>
+                   <th>
+                       Package
+                   </th>
+                   <th>
+                       Pricing
+                   </th>
+                   <th>
+                       Features
+                   </th>
+               </tr>
+               <tr>
+                   <td>
+                       Beginer
+                   </td>
+                   <td>
+                        USD 500
+                   </td>
+                   <td>
+                       <ul>
+                           <li>
+                               Download Off-line
+                           </li>
+                           <li>
+                               Private Group Chat
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       Medium
+                   </td>
+                   <td>
+                       USD 1000
+                   </td>
+                   <td>
+                       <ul>
+                           <li>
+                               Download off-line online
+                           </li>
+                           <li>
+                               Group Chat
+                          </li>
+                           <li>
+                               Consultan problem solving
+                           </li>
+                           <li>
+                               Meet up and reward
+                           </li>
+                       </ul>
+                   </td>
+               </tr>
+           </div>
+        </table>
+    </section>
+
+    <footer> 
+        @2020 all right reserved. by Drewmint Esential
+    </footer>
+    
+</body>
+</html>
